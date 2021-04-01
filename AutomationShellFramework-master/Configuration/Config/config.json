@@ -1,0 +1,17 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "DemoURL": "https://www.google.com/",
+  "UserName": "",
+  "Password": "",
+  "Browser": "Chrome",
+
+  "Url": "https://demoqa.com/",
+  "Url2": "https://www.toolsqa.com/"
+}
